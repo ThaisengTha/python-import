@@ -1,11 +1,1 @@
-awscli
-apache-airflow-providers-snowflake==5.8.0
-hvac
-numpy
-snowflake-connector-python[pandas]==3.18.0
-pyarrow==14.0.1
-snowflake-sqlalchemy
-sqlparse
-psycopg2-binary
-boto3
-opensearch-py
+ujson==5.4.0
