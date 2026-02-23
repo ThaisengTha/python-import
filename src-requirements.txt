@@ -1,7 +1,7 @@
 snowflake-connector-python[pandas]==3.18.0
 snowflake-sqlalchemy
 sqlparse
-apache-airflow==2.10.2
+apache-airflow==2.11.1rc1
 apache-airflow-providers-snowflake==5.8.0
 apache-airflow-providers-slack
 apache-airflow-providers-datadog
