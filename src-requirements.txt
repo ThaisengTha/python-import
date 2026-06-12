@@ -11,3 +11,5 @@ pytest-mock
 boto3
 Jinja2
 opensearch-py
+apache-airflow-providers-fab>=3.5.0rc1 # not directly required, pinned by Snyk to avoid a vulnerability
+pyopenssl>=26.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
